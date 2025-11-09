@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="80" height="80">
+  <!-- Shield shape -->
+  <path d="M100 10 L160 40 L160 100 Q160 160 100 190 Q40 160 40 100 L40 40 Z" 
+        fill="#003366" stroke="#0066cc" stroke-width="3"/>
+  
+  <!-- Inner shield -->
+  <path d="M100 25 L150 50 L150 100 Q150 150 100 175 Q50 150 50 100 L50 50 Z" 
+        fill="#0066cc" opacity="0.8"/>
+  
+  <!-- ISO text -->
+  <text x="100" y="85" font-family="Arial, sans-serif" font-size="18" font-weight="bold" 
+        fill="white" text-anchor="middle">ISO</text>
+  <text x="100" y="105" font-family="Arial, sans-serif" font-size="24" font-weight="bold" 
+        fill="#ffcc00" text-anchor="middle">27001</text>
+  
+  <!-- Checkmark -->
+  <path d="M85 120 L95 130 L115 110" stroke="white" stroke-width="4" 
+        fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Decorative stars -->
+  <circle cx="70" cy="65" r="3" fill="#ffcc00"/>
+  <circle cx="130" cy="65" r="3" fill="#ffcc00"/>
+</svg>
