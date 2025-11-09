@@ -92,6 +92,4 @@ Main colors used (defined in `styles.css`):
 
 © 2025 Integra Global Solutions Corp. All rights reserved.
 
-## 🗑️ Cleanup
 
-You can safely delete `quantity-takeoff-service.html` as all content has been reorganized into the new structure.
